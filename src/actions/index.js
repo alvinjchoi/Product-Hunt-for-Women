@@ -55,6 +55,27 @@ class Actions {
     }
   }
 
+  googleLogin() {
+      return (dispatch) => {
+          var provider = new Firebase.auth.GoogleAuthProvider();
+          Firebase.auth().signInWithPopup(provider).then(function(result) {
+              var user = result.user;
+
+              var profile = {
+                  id: user.uid,
+                  name: user.providerData[0].displayName,
+                  avatar: user.providerData[0].photoURL
+              }
+
+              Firebase.database().ref('/users/'+user.uid).set(profile);
+              dispatch(profile);
+
+          }).catch(function(error) {
+              console.log('Failed!', error);
+          });
+      }
+  }
+
   logout() {
     return(dispatch) => {
       Firebase.auth().signOut().then(function() {

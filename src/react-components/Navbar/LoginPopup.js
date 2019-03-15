@@ -8,6 +8,11 @@ class LoginPopup extends React.Component {
     this.props.hidePopup();
   };
 
+  googleLogin = () => {
+      Actions.googleLogin();
+      this.props.hidePopup();
+  };
+
   render() {
     return (
       <Popup {...this.props} style="login-popup">
@@ -15,6 +20,7 @@ class LoginPopup extends React.Component {
         <h1>Login to Join The Community</h1>
         <p>CodeHunt is a Community to share and geek out about the latest code, podcast and news. Join us :)</p>
         <button className="facebook-btn" onClick={this.handleLogin}>Login with Facebook</button>
+        <button className="google-btn" onClick={this.googleLogin}>Login with Google</button>
         <p>We'll never post to Facebook without your permission.</p>
       </Popup>
     );

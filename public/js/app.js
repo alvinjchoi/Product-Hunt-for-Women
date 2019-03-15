@@ -92127,6 +92127,27 @@ var Actions = function () {
       };
     }
   }, {
+    key: 'googleLogin',
+    value: function googleLogin() {
+      return function (dispatch) {
+        var provider = new _firebase2.default.auth.GoogleAuthProvider();
+        _firebase2.default.auth().signInWithPopup(provider).then(function (result) {
+          var user = result.user;
+
+          var profile = {
+            id: user.uid,
+            name: user.providerData[0].displayName,
+            avatar: user.providerData[0].photoURL
+          };
+
+          _firebase2.default.database().ref('/users/' + user.uid).set(profile);
+          dispatch(profile);
+        }).catch(function (error) {
+          console.log('Failed!', error);
+        });
+      };
+    }
+  }, {
     key: 'logout',
     value: function logout() {
       return function (dispatch) {
@@ -92371,6 +92392,9 @@ var LoginPopup = function (_React$Component) {
     return _ret = (_temp = (_this = _possibleConstructorReturn(this, (_ref = LoginPopup.__proto__ || Object.getPrototypeOf(LoginPopup)).call.apply(_ref, [this].concat(args))), _this), _this.handleLogin = function () {
       _actions2.default.login();
       _this.props.hidePopup();
+    }, _this.googleLogin = function () {
+      _actions2.default.googleLogin();
+      _this.props.hidePopup();
     }, _temp), _possibleConstructorReturn(_this, _ret);
   }
 
@@ -92395,6 +92419,11 @@ var LoginPopup = function (_React$Component) {
           'button',
           { className: 'facebook-btn', onClick: this.handleLogin },
           'Login with Facebook'
+        ),
+        _react2.default.createElement(
+          'button',
+          { className: 'google-btn', onClick: this.googleLogin },
+          'Login with Google'
         ),
         _react2.default.createElement(
           'p',

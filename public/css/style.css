@@ -61,7 +61,7 @@ body {
 
 h1 {
   font-size: 20px;
-  line-height: 70;
+  line-height: 40px;
   font-weight: 500;
 }
 
@@ -253,6 +253,12 @@ button:hover {
 .facebook-btn {
 	color: white;
 	background-color: #3b5998;
+	margin: 20px;
+}
+
+.google-btn {
+	color: white;
+	background-color: #2d26ff;
 	margin: 20px;
 }
 
