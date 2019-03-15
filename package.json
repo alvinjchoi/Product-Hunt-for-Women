@@ -1,9 +1,9 @@
 {
   "name": "womenph",
   "version": "1.0.0",
-  "description": "",
+  "descriptigit on": "",
   "engines" : {
-    "node" : "8.12.0",
+    "node" : "8.x.x",
     "npm" : "6.9.0"
   },
   "main": "index.js",
