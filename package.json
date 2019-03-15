@@ -2,6 +2,11 @@
   "name": "womenph",
   "version": "1.0.0",
   "description": "",
+  "engines" : {
+    "node" : ">=10.0.0",
+    "npm" : ">=6.0.0"
+  },
+  "engineStrict": true,
   "main": "index.js",
   "scripts": {
     "start": "node server/express-server.js",
@@ -32,5 +37,6 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babelify": "^8.0.0"
-  }
+  },
+  "heroku-run-build-script": true
 }
