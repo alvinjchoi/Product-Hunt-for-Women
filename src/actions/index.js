@@ -44,7 +44,7 @@ class Actions {
           id: user.uid,
           name: user.providerData[0].displayName,
           avatar: user.providerData[0].photoURL
-        }
+        };
 
         Firebase.database().ref('/users/'+user.uid).set(profile);
         dispatch(profile);
@@ -65,7 +65,7 @@ class Actions {
                   id: user.uid,
                   name: user.providerData[0].displayName,
                   avatar: user.providerData[0].photoURL
-              }
+              };
 
               Firebase.database().ref('/users/'+user.uid).set(profile);
               dispatch(profile);
