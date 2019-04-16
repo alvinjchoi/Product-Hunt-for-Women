@@ -92314,7 +92314,7 @@ var HomePage = (0, _connectToStores2.default)(_class = function (_React$Componen
         _react2.default.createElement(
           'header',
           null,
-          _react2.default.createElement('img', { src: '/img/new_banner.jpeg', width: '100%' })
+          _react2.default.createElement('img', { src: '/img/gray_banner.png', width: '100%' })
         ),
         _react2.default.createElement(
           'section',
