@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="3026858a-581d-408e-8228-51f05314a10b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/react-components/HomePage/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-components/HomePage/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/react-components/Navbar/LoginPopup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-components/Navbar/LoginPopup.js" afterDir="false" />
     </list>
+=======
+    <list default="true" id="3026858a-581d-408e-8228-51f05314a10b" name="Default Changelist" comment="" />
+>>>>>>> parent of fd03343... new banner
 =======
     <list default="true" id="3026858a-581d-408e-8228-51f05314a10b" name="Default Changelist" comment="" />
 >>>>>>> parent of fd03343... new banner
@@ -22,20 +26,27 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1280">
               <caret line="109" column="56" lean-forward="true" selection-start-line="109" selection-start-column="56" selection-end-line="109" selection-end-column="56" />
 =======
+=======
+>>>>>>> parent of fd03343... new banner
         <entry file="file://$PROJECT_DIR$/src/react-components/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
               <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+<<<<<<< HEAD
+>>>>>>> parent of fd03343... new banner
+=======
 >>>>>>> parent of fd03343... new banner
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/img/new_banner.jpeg">
@@ -48,11 +59,16 @@
             <state relative-caret-position="378">
               <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
 =======
+=======
+>>>>>>> parent of fd03343... new banner
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
               <caret line="92316" column="69" selection-start-line="92316" selection-start-column="69" selection-end-line="92316" selection-end-column="69" />
+<<<<<<< HEAD
+>>>>>>> parent of fd03343... new banner
+=======
 >>>>>>> parent of fd03343... new banner
             </state>
           </provider>
@@ -86,7 +102,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/public/img/g-normal.png">
+=======
+        <entry file="file://$PROJECT_DIR$/public/img/close.png">
+>>>>>>> parent of fd03343... new banner
           <provider selected="true" editor-type-id="images" />
 =======
         <entry file="file://$PROJECT_DIR$/server/express-server.js">
@@ -99,8 +119,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/public/img/gray_banner.png">
           <provider selected="true" editor-type-id="images" />
+=======
+        <entry file="file://$PROJECT_DIR$/server/express-server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+>>>>>>> parent of fd03343... new banner
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -144,12 +173,16 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server/express-server.js" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/public/js/app.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/react-components/Navbar/PostPopup.js" />
         <option value="$PROJECT_DIR$/src/actions/index.js" />
         <option value="$PROJECT_DIR$/src/react-components/Navbar/LoginPopup.js" />
         <option value="$PROJECT_DIR$/src/react-components/HomePage/index.js" />
+=======
+        <option value="$PROJECT_DIR$/public/index.html" />
+>>>>>>> parent of fd03343... new banner
 =======
         <option value="$PROJECT_DIR$/public/index.html" />
 >>>>>>> parent of fd03343... new banner
@@ -299,9 +332,13 @@
       <workItem from="1553346288975" duration="140000" />
       <workItem from="1553352115777" duration="174000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1555432656022" duration="4333000" />
       <workItem from="1555438889600" duration="153000" />
       <workItem from="1555455667981" duration="2173000" />
+=======
+      <workItem from="1555432656022" duration="1597000" />
+>>>>>>> parent of fd03343... new banner
 =======
       <workItem from="1555432656022" duration="1597000" />
 >>>>>>> parent of fd03343... new banner
@@ -310,7 +347,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="18447000" />
+=======
+    <option name="totallyTimeSpent" value="13385000" />
+>>>>>>> parent of fd03343... new banner
 =======
     <option name="totallyTimeSpent" value="13385000" />
 >>>>>>> parent of fd03343... new banner
@@ -325,7 +366,11 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> parent of fd03343... new banner
 =======
       <window_info anchor="bottom" id="Find" order="1" />
 >>>>>>> parent of fd03343... new banner
@@ -338,7 +383,11 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.38592508" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36363637" />
+>>>>>>> parent of fd03343... new banner
 =======
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36363637" />
 >>>>>>> parent of fd03343... new banner
@@ -352,8 +401,11 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
 =======
+=======
+>>>>>>> parent of fd03343... new banner
     <entry file="file://$PROJECT_DIR$/public/img/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -376,8 +428,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/stores/ProductStore.js">
 =======
+=======
+>>>>>>> parent of fd03343... new banner
     <entry file="file://$PROJECT_DIR$/public/img/leo.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -469,6 +524,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -506,13 +562,31 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/img/banner.jpeg">
+=======
+    <entry file="file://$PROJECT_DIR$/public/img/g-normal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/banner.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/banner.jpg">
+>>>>>>> parent of fd03343... new banner
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/img/banner.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/img/login-logo.png">
       <provider selected="true" editor-type-id="images" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+>>>>>>> parent of fd03343... new banner
     </entry>
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/react-components/HomePage/index.js">
@@ -531,11 +605,16 @@
     <entry file="file://$PROJECT_DIR$/src/react-components/Navbar/LoginPopup.js">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="342">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="196">
+          <caret line="92316" column="69" selection-start-line="92316" selection-start-column="69" selection-end-line="92316" selection-end-column="69" />
+>>>>>>> parent of fd03343... new banner
 =======
         <state relative-caret-position="196">
           <caret line="92316" column="69" selection-start-line="92316" selection-start-column="69" selection-end-line="92316" selection-end-column="69" />
