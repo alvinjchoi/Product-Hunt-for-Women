@@ -24,7 +24,7 @@ class HomePage extends React.Component {
     return (
       <section>
         <header>
-          <img src="/img/banner.jpeg" width="100%" />
+          <img src="/public/img/gray_banner.png" width="100%" />
         </header>
 
         <section>

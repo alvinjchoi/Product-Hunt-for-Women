@@ -16,7 +16,7 @@ class LoginPopup extends React.Component {
   render() {
     return (
       <Popup {...this.props} style="login-popup">
-        <img src="/img/kitty.png"/>
+        <img src="/public/img/login-logo.png"/>
         <h1>Login to Women's Product Hunt</h1>
         <p>Women's Product Hunt is a Community to understand, support, and celebrate female representation in the product community. Join us :)</p>
         <button className="facebook-btn" onClick={this.handleLogin}>Login with Facebook</button>
