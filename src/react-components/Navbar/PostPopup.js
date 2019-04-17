@@ -15,8 +15,8 @@ class PostPopup extends React.Component {
         avatar: this.props.user.avatar,
       }
     }
-
     Actions.addProduct(newProduct);
+    this.props.hidePopup();
   };
 
   render() {

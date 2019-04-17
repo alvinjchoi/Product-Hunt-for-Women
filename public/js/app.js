@@ -92564,8 +92564,8 @@ var PostPopup = function (_React$Component) {
           avatar: _this.props.user.avatar
         }
       };
-
       _actions2.default.addProduct(newProduct);
+      _this.props.hidePopup();
     }, _temp), _possibleConstructorReturn(_this, _ret);
   }
 
