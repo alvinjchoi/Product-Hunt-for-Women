@@ -1,6 +1,6 @@
 # Product Hunt for Women
 
-**Check out this project here:** [https://phforwomen.appspot.com/]()
+**Check out this project here:** [Product Hunt for Women](https://phforwomen.appspot.com/)
 
 This project uses ES6 syntax to build a ReactJS app with Firebase, a real-time backend by cloning Product Hunt. The project also leverages Flux architecture with Alt to design and architect a React app.
 
