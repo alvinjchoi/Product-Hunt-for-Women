@@ -92314,7 +92314,7 @@ var HomePage = (0, _connectToStores2.default)(_class = function (_React$Componen
         _react2.default.createElement(
           'header',
           null,
-          _react2.default.createElement('img', { src: '/public/img/gray_banner.png', width: '100%' })
+          _react2.default.createElement('img', { src: '/img/gray_banner.png', width: '100%' })
         ),
         _react2.default.createElement(
           'section',
@@ -92404,7 +92404,7 @@ var LoginPopup = function (_React$Component) {
       return _react2.default.createElement(
         _Popup2.default,
         _extends({}, this.props, { style: 'login-popup' }),
-        _react2.default.createElement('img', { src: '/public/img/login-logo.png' }),
+        _react2.default.createElement('img', { src: '/img/login-logo.png' }),
         _react2.default.createElement(
           'h1',
           null,
