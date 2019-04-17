@@ -30,3 +30,4 @@ React allows developers to create large web applications which can change data, 
 * Basic understanding of HTML and CSS
 * Basic understanding of function in Javascript
 * Basic understanding of how State and Props work in React
+* hi
