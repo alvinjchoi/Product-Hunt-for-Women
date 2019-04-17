@@ -92314,19 +92314,7 @@ var HomePage = (0, _connectToStores2.default)(_class = function (_React$Componen
         _react2.default.createElement(
           'header',
           null,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-          _react2.default.createElement('img', { src: '/img/gray_banner.png', width: '100%' })
-=======
-          _react2.default.createElement('img', { src: '/img/banner.jpeg', width: '100%' })
->>>>>>> parent of fd03343... new banner
-=======
-          _react2.default.createElement('img', { src: '/img/banner.jpeg', width: '100%' })
->>>>>>> parent of fd03343... new banner
-=======
-          _react2.default.createElement('img', { src: '/img/new_banner.jpeg', width: '100%' })
->>>>>>> parent of 1fe7dc7... banner add
+          _react2.default.createElement('img', { src: '/public/img/gray_banner.png', width: '100%' })
         ),
         _react2.default.createElement(
           'section',
@@ -92416,16 +92404,16 @@ var LoginPopup = function (_React$Component) {
       return _react2.default.createElement(
         _Popup2.default,
         _extends({}, this.props, { style: 'login-popup' }),
-        _react2.default.createElement('img', { src: '/img/login-logo.png' }),
+        _react2.default.createElement('img', { src: '/public/img/login-logo.png' }),
         _react2.default.createElement(
           'h1',
           null,
-          'Login to Join The Community'
+          'Login to Women\'s Product Hunt'
         ),
         _react2.default.createElement(
           'p',
           null,
-          'CodeHunt is a Community to share and geek out about the latest code, podcast and news. Join us :)'
+          'Women\'s Product Hunt is a Community to understand, support, and celebrate female representation in the product community. Join us :)'
         ),
         _react2.default.createElement(
           'button',
