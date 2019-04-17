@@ -30,3 +30,8 @@ React allows developers to create large web applications which can change data, 
 * Basic understanding of HTML and CSS
 * Basic understanding of function in Javascript
 * Basic understanding of how State and Props work in React
+
+## Backlog
+* Search bar with autocomplete, typo tolerance, synonyms management, filters and facets, query suggestions using Algolia API
+* Tags and Topics Suggestions
+* UI/UX Improvements
